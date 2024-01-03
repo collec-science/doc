@@ -1,0 +1,4 @@
+baseURL = 'https://collec-sicence.github.io/docs/'
+languageCode = 'fr-fr'
+title = 'Collec-Science - Documentation'
+theme = 'jane'
