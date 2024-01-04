@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'en-GB'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Documentation of Collec-Science'
+    title = 'Collec-Science documentation'
     weight = 2
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'

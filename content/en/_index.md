@@ -3,39 +3,13 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Collec-Science documentation
 
-{{< columns >}}
-## Astris ipse furtiva
+Here you will find all the documentation for the Collec-Science software.
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+It has been compiled from Markdown files, and uses the [hugo](https://gohugo.io/) engine with the [hugo-book](https://themes.gohugo.io/themes/hugo-book/) theme for rendering.
 
-<--->
+If you would like to contribute to this documentation:
 
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- create a fork of the https://github.com/collec-science/docs repository
+- make the changes in the develop branch, and then submit a request for merge.

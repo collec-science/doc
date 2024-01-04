@@ -15,3 +15,14 @@ headless: true
   - [Prêter des échantillons]({{<relref "/docs/samples/lendingsample_fr.md">}})
   - [Renommer un champ de métadonnées]({{<relref "docs/samples/metadatafield_fr.md">}})
 <br />
+
+- _Services WEB/API_
+  - [Principe général]({{<relref "/docs/webservices/apiCallFr.md">}})
+  - [Gestion de l'identification]({{<relref "/docs/webservices/identificationFr.md">}})
+  - [Consulter un échantillon]({{<relref "/docs/webservices/sampleDisplayFr.md">}})
+  - [Récupérer une liste d'échantillons]({{<relref "/docs/webservices/sampleListFr.md">}})
+  - [Ajouter ou modifier un échantillon]({{<relref "/docs/webservices/sampleWriteFr.md">}})
+  - [Ajouter un mouvement]({{<relref "/docs/webservices/movementAddFr.md">}})
+  - [Supprimer un échantillon]({{<relref "/docs/webservices/sampleDeleteFr.md">}})
+  - [Consulter un document]({{<relref "/docs/webservices/documentGetFr.md">}})
+  <br />

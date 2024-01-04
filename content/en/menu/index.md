@@ -2,21 +2,27 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
+[**User Documentation**]({{< relref "/docs/" >}})
+
+- _Configuration_
+  - [Linking documents stored in a tree structure]({{<relref "/docs/configuration/document_external_en.md">}})
+  - [Automatically send reminder emails]({{<relref "/docs/configuration/automaticsendmail_en.md">}})
+
 <br />
 
-- **Shortcodes**
-- [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
-- [Columns]({{< relref "/docs/shortcodes/columns" >}})
-- [Expand]({{< relref "/docs/shortcodes/expand" >}})
-- [Hints]({{< relref "/docs/shortcodes/hints" >}})
-- [KaTex]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})
+- _Gestion des échantillons_
+  - [Create export lots]({{<relref "/docs/samples/batch_export_en.md">}})
+  - [Lending samples]({{<relref "/docs/samples/lendingsample_en.md">}})
+  - [Rename a metadata field]({{<relref "docs/samples/metadatafield_en.md">}})
 <br />
+
+- _Services WEB/API_
+  - [General principle]({{<relref "/docs/webservices/apiCallEn.md">}})
+  - [Identification management]({{<relref "/docs/webservices/identificationEn.md">}})
+  - [Consult a sample]({{<relref "/docs/webservices/sampleDisplayEn.md">}})
+  - [Get a list of samples]({{<relref "/docs/webservices/sampleListEn.md">}})
+  - [Add or modify a sample]({{<relref "/docs/webservices/sampleWriteEn.md">}})
+  - [Add a movement]({{<relref "/docs/webservices/movementAddEn.md">}})
+  - [Delete a sample]({{<relref "/docs/webservices/sampleDeleteEn.md">}})
+  - [Consult a document]({{<relref "/docs/webservices/documentGetEn.md">}})
+  <br />
