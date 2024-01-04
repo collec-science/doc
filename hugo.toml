@@ -1,8 +1,8 @@
 baseURL = 'https://collec-sicence.github.io/docs/'
 languageCode = 'fr-FR'
 title = 'Collec-Science - Documentation'
-#theme = 'github.com/alex-shpak/hugo-book'
-theme = 'hugo-book'
+theme = 'github.com/alex-shpak/hugo-book'
+#theme = 'hugo-book'
 
 # Book configuration
 disablePathToLower = true
